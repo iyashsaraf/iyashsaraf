@@ -45,13 +45,9 @@
 timeline
     title Professional Experience Timeline
     
-    2022-08 : Techpotato Studios
-            : Software Engineer
-            : Built cloud-native subscription platform
-            
     2023-06 : Flowdojo Technologies
             : Cloud Software Engineer
-            : Architected AI advisory system with RAG
+            : Built cloud-native subscription platform
             
     2024-09 : Northeastern University
             : Master's in CS Engineering
@@ -59,15 +55,6 @@ timeline
 ```
 
 ### **Cloud Software Engineer @ Flowdojo Technologies** *(June 2023 - August 2024)*
-> 🏆 **Key Achievement:** Reduced manual data handling by 80% through microservices automation
-
-- 🤖 Built **AI-powered RAG system** analyzing 1000+ academic surveys with 90% relevance accuracy
-- ☸️ Architected **event-driven microservices** on AWS EKS with Kafka, Go, and Python
-- 🔧 Created **custom Kubernetes Operator** in Go for automated RDS backups to S3
-- 📊 Implemented **enterprise observability** with Prometheus, Grafana, and Istio service mesh
-- 🚀 Achieved **99.9% uptime SLA** and 50% faster incident resolution
-
-### **Software Engineer @ Techpotato Studios** *(August 2022 - May 2023)*
 > 🏆 **Key Achievement:** Reduced deployment time by 80% through CI/CD automation
 
 - 🔐 Built **secure multi-tenant REST APIs** with Spring Boot and AWS Cognito
